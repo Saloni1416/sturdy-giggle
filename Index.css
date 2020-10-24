@@ -1,0 +1,255 @@
+
+
+
+body{
+    margin: 0;
+    padding:0;
+    background: url('trello.jpg') no-repeat fixed;
+    background-size: cover;
+    
+}
+.main{
+    position: fixed;
+    
+
+}
+.head{
+    color:white;
+    text-align: center;
+    padding:10px 500px;
+    
+}
+nav{
+    width:120%;
+}
+
+ul{
+    width:100%;
+    padding: 0;
+    margin: 0px;
+    list-style-type:none;
+    background-color:rgba( 64, 144, 172, 0.65 );
+    overflow: hidden;
+    
+
+}
+ul .fa-plus,{
+
+}
+
+li a {
+    display: block;
+    text-align: center;
+    color: rgb(243, 243, 243);
+    text-decoration: none;
+    padding: 10px 20px;
+    
+    
+}
+ .s-box{
+     background-color:rgba( 64, 144, 172,1);
+     border:10px;
+     
+    
+
+}
+li{
+   
+    float: left;
+    padding-inline-start: 20px;
+    padding-left: 15px;
+}
+li a:hover{
+    background-color: rgb(255, 255, 255);
+    color: black;
+}
+
+.fa-square-full{
+    width: 100px;
+}
+
+header{
+    width: 100%;
+    
+    
+    
+    
+}
+.menu{
+    color: rgb(255, 250, 250);
+    background-color: rgba( 128, 128, 128, 0.3 );
+    height: 40px;
+    text-align: initial;
+    width: 105%;
+    
+    
+    
+}
+
+
+
+
+
+
+.one{
+    padding-left: 10px;
+    
+    margin-top: 20px;
+    padding-bottom: 20px;
+
+}
+span.two{
+    padding-left:1300px ;
+
+} 
+
+.right{
+    padding-left: 1010px;
+    text-align: right;
+    
+}
+
+div.container{
+    display: inline;
+    display: inline-flex;
+    padding-top:80px;
+    flex-wrap: nowrap;        
+                                 /* a container that holds no. of flex boxes */
+    
+}
+
+div.box1
+{
+    
+    width:200px;
+    padding:12px;
+    border:15px;
+    margin:15px;
+    background-color: rgb(198, 198, 198);
+    border-radius: 12px;
+    height:220px;
+    display: inline-block;
+   
+    
+}
+
+.box2
+{
+    
+    width:200px;
+    padding:12px;
+    border:15px;
+    margin:10px;
+    background-color: rgb(198, 198, 198);
+    border-radius: 12px;
+    height:200px;
+    display: inline-block;
+    
+
+}
+div.box3
+{
+
+    width:200px;
+    padding:12px;
+    border:15px;
+    margin:10px;
+    background-color: rgb(198, 198, 198);
+    border-radius: 12px;
+    height:125px;
+    display: inline-block;
+    line-height: 30px;
+    
+    
+    
+}
+div.box4
+{
+
+    width:200px;
+    padding:12px;
+    border:15px;
+    margin:10px;
+    background-color: rgb(198, 198, 198);
+    border-radius: 12px;
+    height:45px;
+    display: inline-block;
+    line-height: 30px;
+    
+    
+    
+}
+.box6
+{
+
+    width:200px;
+    padding:12px;
+    border:15px;
+    margin:10px;
+    background-color: rgb(198, 198, 198);
+    border-radius: 12px;
+    height:25px;
+    display: inline-block;
+    line-height: 30px;
+    
+    
+    
+}
+span.diff{
+    padding-left: 100px;
+}
+span.rare{
+    padding-left: 50px;
+}
+
+
+p.learn{
+    background-color: white;
+    height: 2em;
+    padding-left: 5%;
+    padding-top: 5%;
+    
+    
+}
+p.learn:hover{
+    opacity: 0.5;
+    
+
+}
+
+p.plus
+{
+   display: inline;
+}
+p.strong
+{
+   display: inline;
+}
+span{
+    padding-left: 130px;
+                                                    /* space in between text and icon */
+}
+button{
+    background-color: rgba(30, 141, 30, 0.829);
+    border-radius: 6px;
+    padding:5px;
+    color: rgb(255, 250, 250);
+   
+}
+i.fa-times{
+    font-size: 2em;
+    
+}
+textarea.text{
+    padding: 5px;
+}
+.box5{
+    width:200px;
+    padding:12px;
+    border:15px;
+    margin:10px;
+    background-color: rgb(198, 198, 198);
+    border-radius: 12px;
+    height:120px;
+    display: inline-block;
+}
